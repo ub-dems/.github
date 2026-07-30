@@ -1,4 +1,4 @@
-# Bicocca Data Science Lab (datalab@unimib) DEMS - public repositories
+# Bicocca Data Science Lab (datalab@unimib) - unumib/DEMS
 
 - [Bicocca Data Science Lab (datalab@unimib)](https://datalab.unimib.it/)
 - [Department of Economics, Management and Statistics DEMS](https://dems.unimib.it/en)
